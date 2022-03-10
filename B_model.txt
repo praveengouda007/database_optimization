@@ -1,0 +1,4 @@
+Execution time: 0.026925325393676758ms of B_list
+[{"id": 5, "name": "p", "a": {"id": 15, "name": "p2"}}]
+Execution time: 0.021936416625976562ms of B_select_related
+[{"id": 5, "name": "p", "a": {"id": 15, "name": "p2"}}]

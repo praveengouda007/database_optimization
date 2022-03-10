@@ -1,0 +1,4 @@
+Execution time: 0.03793811798095703ms for C_list
+[{"id": 4, "name": "c1", "a": []}, {"id": 5, "name": "c2", "a": []}]
+Execution time: 0.02896285057067871ms for C_list_prefetch_related
+[{"id": 4, "name": "c1", "a": []}, {"id": 5, "name": "c2", "a": []}]

@@ -1,0 +1,6 @@
+Execution time: 0.09175443649291992ms for A_list
+[{"name": "p1", "b": [], "c": []}, {"name": "p2", "b": [], "c": []}, {"name": "p2", "b": [5], "c": []}]
+Execution time: 0.08982253074645996ms for A_list_select_related
+[{"name": "p1", "b": [], "c": []}, {"name": "p2", "b": [], "c": []}, {"name": "p2", "b": [5], "c": []}]
+Execution time: 0.06885480880737305ms for A_list_prefetch_related
+[{"name": "p1", "b": [], "c": []}, {"name": "p2", "b": [], "c": []}, {"name": "p2", "b": [5], "c": []}]
